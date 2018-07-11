@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 // import search from 'youtube-search';
 import SearchBar  from './components/Search_Bar';
 
-const ApiKey = 'AIzaSyBcneztX_IvxFdsc2iss1OQ-zRjtvi2cP4';
+// AIzaSyBcneztX_IvxFdsc2iss1OQ-zRjtvi2cP4
 
 const App = () => {
     return ( 
